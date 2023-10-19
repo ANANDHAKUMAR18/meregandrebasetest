@@ -1,0 +1,18 @@
+package mergeandrebasetest;
+
+import mergeandrebasetest.Test;
+import mergeandrebasetest.Test;
+
+public class Test{
+	  public void TestA() {
+		System.out.println("Yaay, Hello world");
+	
+}
+
+	
+	public static void main(String[] args){
+	        Test obj=new Test();
+	        obj.TestA();
+
+}
+}
