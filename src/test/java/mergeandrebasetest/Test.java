@@ -14,11 +14,18 @@ public class Test{
 			System.out.println("Yaay, Hello world");
 		
 	}
+	
+	public void TestC() {
+		System.out.println("Yaay, Hello world");
+	
+}
+
 
 	
 	public static void main(String[] args){
 	        Test obj=new Test();
 	        obj.TestA();
 	        obj.TestB();
+	        obj.TestC();
 }
 }
