@@ -24,6 +24,11 @@ public class Test{
 	
 }
 	
+	public void TestE() {
+		System.out.println("Yaay, Hello world");
+	
+}
+	
 	
 
 
@@ -34,5 +39,6 @@ public class Test{
 	        obj.TestB();
 	        obj.TestC();
 	obj.TestD();
+	obj.TestE();
 }
 }
