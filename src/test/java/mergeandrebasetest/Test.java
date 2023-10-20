@@ -19,6 +19,11 @@ public class Test{
 		System.out.println("Yaay, Hello world");
 	
 }
+	public void TestD() {
+		System.out.println("Yaay, Hello world");
+	
+}
+	
 	--Hey--
 	--HEllo--
 	--Testing Dude--
@@ -30,5 +35,6 @@ public class Test{
 	        obj.TestA();
 	        obj.TestB();
 	        obj.TestC();
+	obj.TestD();
 }
 }
